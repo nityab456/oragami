@@ -1,0 +1,5 @@
+h1{justify-content: center;font-size: 100px; font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}
+body{background-color: blanchedalmond;}
+img{border: 5px solid black; border-radius: 40px; display:flex; flex-wrap:wrap; padding: 10px; margin: 25px;}
+ol{font-weight: bold; font-family: Arial, Helvetica, sans-serif;}
+.item:hover{transform: scale(0.8);}
